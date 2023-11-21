@@ -7,6 +7,9 @@ foi desenvolvido um projetinho com java usando jframe de uma loja para add carro
 ![image](https://github.com/raa-russo/loja_carro_jframe/assets/101585738/5d0b6f05-d1f7-4c69-b45e-69c47155e88a)
 - Tela Adicionar Carros
   ![image](https://github.com/raa-russo/loja_carro_jframe/assets/101585738/230f9776-0762-4b48-b568-f98ccaa200fe)
+- Tela adicionar motos
+  ![image](https://github.com/raa-russo/loja_carro_jframe/assets/101585738/e5ceb68e-2630-4aab-9a96-af1dbdcde719)
+
 
 
 
